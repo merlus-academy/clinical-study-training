@@ -8,6 +8,8 @@ We will keep each part of the application very simple, assessments will only be 
 
 We will use technologies we know wherever possible (VueJS, NodeJS)
 
+We will be writting some unit test, simple integration test, and end to end tests
+
 ## Proposed architecture of applications
 
 - Databases: a SQL database and a separate Mongo DB database. The purpose is to have some separation for security reason, as well as learning both concepts
