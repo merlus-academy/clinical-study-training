@@ -35,6 +35,8 @@ We will be using a mix of relational (PostgreSQL) and NoSQL (MongoDB) databases 
 - SQL
 - NoSQL
 - Rest API
+- RabbitMQ?
+- gRPC?
 - Socket?
 - Queue?
 - and more
