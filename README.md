@@ -39,6 +39,8 @@ We will be using a mix of relational (PostgreSQL) and NoSQL (MongoDB) databases 
 - gRPC?
 - Socket?
 - Queue?
+- CSS animations
+- View Transitions API
 - and more
 
 ### Design patterns:
