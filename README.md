@@ -43,6 +43,7 @@ We will be using a mix of relational (PostgreSQL) and NoSQL (MongoDB) databases 
 - Queue?
 - CSS animations
 - View Transitions API
+- OpenAI integration
 - API Gateway?
 - Docker
 - CI/CD (through github actions)
