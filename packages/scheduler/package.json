@@ -1,0 +1,26 @@
+{
+  "name": "scheduler",
+  "version": "0.0.1",
+  "description": "Scheduler for study notifications",
+  "author": "LoicLM <lemerlus.loic@gmail.com>",
+  "homepage": "https://github.com/merlus-academy/clinical-study-training#readme",
+  "license": "ISC",
+  "main": "lib/scheduler.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/merlus-academy/clinical-study-training.git"
+  },
+  "scripts": {
+    "test": "node ./__tests__/scheduler.test.js"
+  },
+  "bugs": {
+    "url": "https://github.com/merlus-academy/clinical-study-training/issues"
+  }
+}
